@@ -15,7 +15,6 @@ public class Todo {
     private String title;
     private String description;
 
-    // Getters and setters
 
     public Long getId() {
         return id;
